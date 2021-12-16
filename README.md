@@ -1,6 +1,3 @@
-// DESCRIPTION
-// GIF FILE ![]()
-
 # Character Controller
 ### Первый character controller, написанный с исполозованием New Input System.
 Link: _https://github.com/Shilaev/CharacterControllers_
