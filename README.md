@@ -35,34 +35,6 @@ __Добавление нового ресурса__
 
 ![](Resources/AddNewResource.gif)
 
-# Quiz game
-
-![](Resources/Quiz.gif)
-
-__Пример работы на Android устройстве__
-
-![](Resources/QuizAndroidSettings.jpg)
-
-![](Resources/QuizAndroidExample.gif)
-
-Простая игра, под Android. Поиск буквы или цифры.
-
-# New input system на Android устройстве
-
-Проект сделан с использованием new input system.
-Демонстрируется работа джойстика и UI на Android устройстве.
-
-![](Resources/FirstMobileBuild.gif)
-
-# Endless Runner
-
-Link: __https://github.com/Shilaev/MyEndlessRunner__ 
-
-![](Resources/EndlessRunner.gif)
-
-__Генератор платформ__
-![](Resources/EndlessRunnerPlatformGenerator.jpg)
-
 # Character Controller
 
 ### Написанн с исполозованием New Input System.
@@ -97,6 +69,33 @@ __Параметры захэшированы__
 
 ![](Resources/CharacterControllerAnimatorHash.jpg)
 
+# Quiz game
+
+![](Resources/Quiz.gif)
+
+__Пример работы на Android устройстве__
+
+![](Resources/QuizAndroidSettings.jpg)
+
+![](Resources/QuizAndroidExample.gif)
+
+Простая игра, под Android. Поиск буквы или цифры.
+
+# New input system на Android устройстве
+
+Проект сделан с использованием new input system.
+Демонстрируется работа джойстика и UI на Android устройстве.
+
+![](Resources/FirstMobileBuild.gif)
+
+# Endless Runner
+
+Link: __https://github.com/Shilaev/MyEndlessRunner__ 
+
+![](Resources/EndlessRunner.gif)
+
+__Генератор платформ__
+![](Resources/EndlessRunnerPlatformGenerator.jpg)
 
 # Ping Pong
 
