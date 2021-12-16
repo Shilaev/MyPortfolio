@@ -1,4 +1,5 @@
 # Helix Jump
+
 Сделана с использованием Scriptable Object, для упрощенного создания уровней.
 
 Link: _https://github.com/Shilaev/MyHelixJump_
@@ -12,6 +13,7 @@ __Пример создания уровня__
 ![](Resources/HelixJumpStages.gif)
 
 # Builder game
+
 [в процессе разработки]
 
 Link: _https://github.com/Shilaev/MyBuilderDefenderGame_
@@ -21,23 +23,39 @@ __Строительство зданий__
 ![](Resources/BuilderDefender.gif)
 
 __Cinemachine camera__
+
 В проекте исопльзуется cinemachine asset для более плавной камеры
 
 ![](Resources/Cinemachine.gif)
 
 __Добавление нового ресурса__
+
 Все здания, ресурсы и кнопки генерируются на освное scriptable object.
 Иконки и кнопки будут добавлены автоматически.
 
 ![](Resources/AddNewResource.gif)
 
 # Первый Android билд
+
 Проект сделан с использованием new input system, в учебных целях,
 чтобы понять как работать с UI и джойстиками на мобильной платформе, с исопльзованием New Input system
 
 ![](Resources/FirstMobileBuild.gif)
 
+# Quiz game
+
+![](Resources/Quiz.gif)
+
+__Пример работы на Android устройстве__
+
+![](Resources/QuizAndroidSettings.jpg)
+
+![](Resources/QuizAndroidExample.gif)
+
+Простая игра, под Android. Поиск буквы или цифры.
+
 # Endless Runner
+
 По сути тестовый проект, который был сделан, чтобы понять как генерировать уровни,
 а так же изучитьразные механики, подбирание монет, пауза|возобновление игры и так далее.
 
@@ -49,7 +67,9 @@ __Генератор платформ__
 ![](Resources/EndlessRunnerPlatformGenerator.jpg)
 
 # Character Controller
+
 ### Первый character controller, написанный с исполозованием New Input System.
+
 Link: _https://github.com/Shilaev/CharacterControllers_
 
 __Управлять можно и с клавиатуры, и с геймпада__
@@ -82,7 +102,9 @@ __Параметры захэшированы__
 
 
 # Ping Pong
+
 ### Первая игра. Сделана без исопльзования Unity физики в обучающих целях.
+
 Link: _https://github.com/Shilaev/MyPingPong_
 
 ![](Resources/PingPongGame.gif)
