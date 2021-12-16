@@ -35,13 +35,6 @@ __Добавление нового ресурса__
 
 ![](Resources/AddNewResource.gif)
 
-# Первый Android билд
-
-Проект сделан с использованием new input system, в учебных целях,
-чтобы понять как работать с UI и джойстиками на мобильной платформе, с исопльзованием New Input system
-
-![](Resources/FirstMobileBuild.gif)
-
 # Quiz game
 
 ![](Resources/Quiz.gif)
@@ -54,10 +47,14 @@ __Пример работы на Android устройстве__
 
 Простая игра, под Android. Поиск буквы или цифры.
 
-# Endless Runner
+# Первый Android билд
 
-По сути тестовый проект, который был сделан, чтобы понять как генерировать уровни,
-а так же изучитьразные механики, подбирание монет, пауза|возобновление игры и так далее.
+Проект сделан с использованием new input system.
+Демонстрируется работа джойстика и UI на Android устройстве.
+
+![](Resources/FirstMobileBuild.gif)
+
+# Endless Runner
 
 Link: __https://github.com/Shilaev/MyEndlessRunner__ 
 
@@ -68,7 +65,7 @@ __Генератор платформ__
 
 # Character Controller
 
-### Первый character controller, написанный с исполозованием New Input System.
+### Написанн с исполозованием New Input System.
 
 Link: _https://github.com/Shilaev/CharacterControllers_
 
@@ -103,7 +100,7 @@ __Параметры захэшированы__
 
 # Ping Pong
 
-### Первая игра. Сделана без исопльзования Unity физики в обучающих целях.
+### Сделана без исопльзования Unity физики в обучающих целях.
 
 Link: _https://github.com/Shilaev/MyPingPong_
 
