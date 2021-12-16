@@ -4,6 +4,17 @@
 
 ![](Resources/FirstMobileBuild.gif)
 
+# Endless Runner
+По сути тестовый проект, который был сделан, чтобы понять как генерировать уровни,
+а так же изучитьразные механики, подбирание монет, пауза|возобновление игры и так далее.
+
+Link: __https://github.com/Shilaev/MyEndlessRunner__ 
+
+![](Resources/EndlessRunner.gif)
+
+__Генератор платформ__
+![](Resources/EndlessRunnerPlatformGenerator.jpg)
+
 # Character Controller
 ### Первый character controller, написанный с исполозованием New Input System.
 Link: _https://github.com/Shilaev/CharacterControllers_
