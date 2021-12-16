@@ -1,3 +1,9 @@
+# Пурвый Android билд
+### Проект сделан с использованием new input system, в учебных целях,
+### чтобы понять как работать с UI и джойстиками на мобильной платформе, с исопльзованием New Input system
+
+![](Resources/FirstMobileBuild.gif)
+
 # Character Controller
 ### Первый character controller, написанный с исполозованием New Input System.
 Link: _https://github.com/Shilaev/CharacterControllers_
