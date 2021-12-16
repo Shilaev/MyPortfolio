@@ -1,3 +1,14 @@
+# Helix Jump
+Сделана с использованием Scriptable Object, для упрощенного создания уровней.
+
+![](Resources/HelixJump.gif)
+
+__Пример создания уровня__
+
+![](Resources/HelixJumpCreatedStages.jpg)
+
+![](Resources/HelixJumpStages.gif)
+
 # Первый Android билд
 Проект сделан с использованием new input system, в учебных целях,
 чтобы понять как работать с UI и джойстиками на мобильной платформе, с исопльзованием New Input system
