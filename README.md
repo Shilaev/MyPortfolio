@@ -13,6 +13,7 @@ __Пример создания уровня__
 
 # Builder game
 [в процессе разработки]
+Link: _https://github.com/Shilaev/MyBuilderDefenderGame_
 
 __Строительство зданий__
 
@@ -26,6 +27,8 @@ __Cinemachine camera__
 __Добавление нового ресурса__
 Все здания, ресурсы и кнопки генерируются на освное scriptable object.
 Иконки и кнопки будут добавлены автоматически.
+
+![](Resources/AddNewResource.gif)
 
 # Первый Android билд
 Проект сделан с использованием new input system, в учебных целях,
