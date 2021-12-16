@@ -36,3 +36,19 @@ __Параметры захэшированы__
 Link: _https://github.com/Shilaev/MyPingPong_
 
 ![](Resources/PingPongGame.gif)
+
+__Расчет нового направления мяча после столкновенияю. Мяч всегда летить под углом в 45 градусов__
+
+![](Resources/PingPongBounce45Angle.jpg)
+
+__Игра подстраивается под рамки камеры, их можнод елать шире, уже, столкновеня будут продолжать работаь__
+
+![](Resources/PingPongGameBorders.jpg)
+
+__Все расчеты размеров, точек столкновений и так далее написаны вручную__
+
+![](Resources/PingPongPaddlePoints.jpg)
+
+__Ракетки не улетят за границы камеры, это предусмотрено в коде__
+
+![](Resources/PingPongUserControl.jpg)
