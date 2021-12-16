@@ -16,8 +16,12 @@ __Пример создания уровня__
 
 __Строительство зданий__
 
+![](Resources/BuilderDefender.gif)
+
 __Cinemachine camera__
 В проекте исопльзуется cinemachine asset для более плавной камеры
+
+![](Resources/Cinemachine.gif)
 
 __Добавление нового ресурса__
 Все здания, ресурсы и кнопки генерируются на освное scriptable object.
