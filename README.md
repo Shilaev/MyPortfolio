@@ -98,9 +98,6 @@ Link: __https://github.com/Shilaev/MyEndlessRunner__
 
 ![](Resources/EndlessRunner.gif)
 
-__Генератор платформ__
-![](Resources/EndlessRunnerPlatformGenerator.jpg)
-
 # Ping Pong
 
 ### Сделана без использования готовых алгоритмов физики Unity.
